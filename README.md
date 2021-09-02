@@ -1,2 +1,4 @@
 # Secured-Browser
-Android based project. browser for childs which will track the websites he/she browses and sends it to the parents. it has an additional feature called reach button, which will automatically send the message of reaching at any particular place.
+An android browser ensuring parental control for the children while using internet which also
+detects child's location accurately by sending Email and SMS to the parents.
+Made with Android Studio, Java, XML and Google Map API.
